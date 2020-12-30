@@ -1,0 +1,1 @@
+<div class="latopbar_header_promo">{$texte nofilter}</div>
